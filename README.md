@@ -8,14 +8,20 @@ My name is Matthew Helberg and I worked at Culver's restuarant for almost 4 year
 ## Description
 > blockquote
 ### How to Run a Program
-*italicized text* Random
+*Follow the steps given from class to complete this program.*
 #### Files Used
 1. What to do?
 2. How does this work?
 3. Who do you work for?
 4. I have no answers
 ##### Additional Documentation
-Documentation
+**Documents**
+| Doc 1 | Classroom Example |
+| Info | Additional Info |
+| Heading | Document |
+| Paragraph containing additional info | Text for document |
 ###### Versioning
-I am versioning.
+- Item 1
+- Item 2
+- *Item 3*
 
