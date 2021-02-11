@@ -6,7 +6,7 @@ My name is Matthew Helberg and I worked at Culver's restuarant for almost 4 year
 # Project Title
 [Movies](https://www.imdb.com/)
 ## Description
-> blockquote
+> Movies are something that everyone can enjoy!
 ### How to Run a Program
 *Follow the steps given from class to complete this program.*
 #### Files Used
